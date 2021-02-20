@@ -1,7 +1,8 @@
 # Lab: Blind SQL injection with conditional responses
 # https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses
 # Start date: 2.20.2021
-# Date lab was completed
+# Date lab was completed: 2.20.2021
+# Todo: Cook the code so other ppl can understand it cuz right now it's messy you runny egg
 import requests
 
 # https://stackoverflow.com/questions/17182656/how-do-i-iterate-through-the-alphabet
