@@ -1,0 +1,201 @@
+,0,1,2,3,4
+0,username,password,ip,warning,time
+1,"root
+",long,6.7.9.2,Invalid username or password.,312.5
+2,"admin
+",long,1.2.0.4,Invalid username or password.,156.25
+3,"test
+",long,5.1.4.4,Invalid username or password.,0.0
+4,"guest
+",long,3.6.4.9,Invalid username or password.,156.25
+5,"info
+",long,7.1.8.9,Invalid username or password.,156.25
+6,"adm
+",long,0.4.8.1,Invalid username or password.,0.0
+7,"mysql
+",long,4.9.9.6,Invalid username or password.,312.5
+8,"user
+",long,1.7.0.2,Invalid username or password.,312.5
+9,"administrator
+",long,2.4.3.5,Invalid username or password.,0.0
+10,"oracle
+",long,1.6.1.0,Invalid username or password.,468.75
+11,"ftp
+",long,5.3.5.6,Invalid username or password.,468.75
+12,"pi
+",long,5.8.8.7,Invalid username or password.,625.0
+13,"puppet
+",long,4.4.0.5,Invalid username or password.,0.0
+14,"ansible
+",long,2.4.0.0,Invalid username or password.,312.5
+15,"ec2-user
+",long,5.7.2.8,Invalid username or password.,312.5
+16,"vagrant
+",long,7.4.8.3,Invalid username or password.,156.25
+17,"azureuser
+",long,1.9.0.4,Invalid username or password.,156.25
+18,"academico
+",long,1.1.2.9,Invalid username or password.,312.5
+19,"acceso
+",long,0.0.6.4,Invalid username or password.,156.25
+20,"access
+",long,4.3.9.7,Invalid username or password.,468.75
+21,"accounting
+",long,6.0.2.2,Invalid username or password.,468.75
+22,"accounts
+",long,2.6.6.8,Invalid username or password.,156.25
+23,"acid
+",long,1.6.5.4,Invalid username or password.,156.25
+24,"activestat
+",long,3.0.8.1,Invalid username or password.,156.25
+25,"ad
+",long,8.0.6.7,Invalid username or password.,156.25
+26,"adam
+",long,5.6.2.9,Invalid username or password.,0.0
+27,"adkit
+",long,4.6.4.7,Invalid username or password.,156.25
+28,"admin
+",long,1.6.9.8,Invalid username or password.,156.25
+29,"administracion
+",long,0.1.0.2,Invalid username or password.,156.25
+30,"administrador
+",long,0.4.3.8,Invalid username or password.,312.5
+31,"administrator
+",long,8.5.0.0,Invalid username or password.,312.5
+32,"administrators
+",long,5.8.9.0,Invalid username or password.,156.25
+33,"admins
+",long,5.9.0.5,Invalid username or password.,468.75
+34,"ads
+",long,9.4.7.0,Invalid username or password.,312.5
+35,"adserver
+",long,4.0.5.3,Invalid username or password.,312.5
+36,"adsl
+",long,1.5.9.0,Invalid username or password.,312.5
+37,"ae
+",long,1.0.3.2,Invalid username or password.,312.5
+38,"af
+",long,2.0.3.1,Invalid username or password.,156.25
+39,"affiliate
+",long,3.4.0.6,Invalid username or password.,156.25
+40,"affiliates
+",long,8.6.4.0,Invalid username or password.,0.0
+41,"afiliados
+",long,0.1.0.7,Invalid username or password.,0.0
+42,"ag
+",long,4.3.1.5,Invalid username or password.,156.25
+43,"agenda
+",long,7.0.2.1,Invalid username or password.,468.75
+44,"agent
+",long,7.1.0.4,Invalid username or password.,312.5
+45,"ai
+",long,2.7.3.2,Invalid username or password.,312.5
+46,"aix
+",long,4.9.3.8,Invalid username or password.,156.25
+47,"ajax
+",long,1.0.3.2,Invalid username or password.,312.5
+48,"ak
+",long,5.2.8.6,Invalid username or password.,0.0
+49,"akamai
+",long,1.5.7.7,Invalid username or password.,156.25
+50,"al
+",long,0.7.1.9,Invalid username or password.,312.5
+51,"alabama
+",long,2.6.3.0,Invalid username or password.,0.0
+52,"alaska
+",long,7.2.2.1,Invalid username or password.,312.5
+53,"albuquerque
+",long,8.2.3.9,Invalid username or password.,312.5
+54,"alerts
+",long,7.6.1.1,Invalid username or password.,468.75
+55,"alpha
+",long,2.7.0.5,Invalid username or password.,156.25
+56,"alterwind
+",long,7.9.3.5,Invalid username or password.,468.75
+57,"am
+",long,7.9.5.6,Invalid username or password.,156.25
+58,"amarillo
+",long,9.1.9.0,Invalid username or password.,312.5
+59,"americas
+",long,6.1.7.9,Invalid username or password.,156.25
+60,"an
+",long,3.9.6.8,Invalid username or password.,0.0
+61,"anaheim
+",long,3.8.7.0,Invalid username or password.,312.5
+62,"analyzer
+",long,6.8.8.6,Invalid username or password.,312.5
+63,"announce
+",long,4.3.8.0,Invalid username or password.,468.75
+64,"announcements
+",long,2.8.6.6,Invalid username or password.,312.5
+65,"antivirus
+",long,8.5.0.5,Invalid username or password.,468.75
+66,"ao
+",long,5.2.1.1,Invalid username or password.,468.75
+67,"ap
+",long,7.7.5.5,Invalid username or password.,468.75
+68,"apache
+",long,8.2.1.3,Invalid username or password.,156.25
+69,"apollo
+",long,7.7.9.1,Invalid username or password.,312.5
+70,"app
+",long,9.0.4.7,Invalid username or password.,625.0
+71,"app01
+",long,4.8.3.4,Invalid username or password.,156.25
+72,"app1
+",long,3.9.0.3,Invalid username or password.,468.75
+73,"apple
+",long,6.5.5.1,Invalid username or password.,0.0
+74,"application
+",long,1.6.7.0,Invalid username or password.,156.25
+75,"applications
+",long,8.7.3.4,Invalid username or password.,625.0
+76,"apps
+",long,3.3.8.8,Invalid username or password.,156.25
+77,"appserver
+",long,0.0.3.2,Invalid username or password.,156.25
+78,"aq
+",long,3.8.8.2,Invalid username or password.,156.25
+79,"ar
+",long,2.0.1.1,Invalid username or password.,156.25
+80,"archie
+",long,2.2.7.3,Invalid username or password.,312.5
+81,"arcsight
+",long,8.4.2.0,Invalid username or password.,312.5
+82,"argentina
+",long,3.7.8.1,Invalid username or password.,156.25
+83,"arizona
+",long,4.5.3.2,Invalid username or password.,312.5
+84,"arkansas
+",long,1.6.1.8,Invalid username or password.,312.5
+85,"arlington
+",long,6.1.0.4,Invalid username or password.,156.25
+86,"as
+",long,1.9.2.0,Invalid username or password.,468.75
+87,"as400
+",long,0.2.7.3,Invalid username or password.,156.25
+88,"asia
+",long,6.4.9.2,Invalid username or password.,312.5
+89,"asterix
+",long,5.6.1.1,Invalid username or password.,468.75
+90,"at
+",long,2.4.7.4,Invalid username or password.,156.25
+91,"athena
+",long,5.7.8.6,Invalid username or password.,312.5
+92,"atlanta
+",long,8.6.0.6,Invalid username or password.,468.75
+93,"atlas
+",long,6.9.1.7,Invalid username or password.,468.75
+94,"att
+",long,4.9.3.3,Invalid username or password.,0.0
+95,"au
+",long,8.5.4.4,Invalid username or password.,468.75
+96,"auction
+",long,6.2.3.8,Invalid username or password.,625.0
+97,"austin
+",long,8.0.4.2,Invalid username or password.,312.5
+98,"auth
+",long,9.8.1.7,Invalid username or password.,468.75
+99,"auto
+",long,7.2.7.7,Invalid username or password.,625.0
+100,autodiscover,long,0.8.6.3,Invalid username or password.,312.5

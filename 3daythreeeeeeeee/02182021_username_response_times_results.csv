@@ -1,0 +1,201 @@
+,0,1,2,3,4
+0,username,password,ip,warning,time
+1,"root
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,2.2.6.9,Invalid username or password.,15.625
+2,"admin
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,1.9.5.8,Invalid username or password.,46.875
+3,"test
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,6.5.3.1,Invalid username or password.,15.625
+4,"guest
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,9.8.8.6,Invalid username or password.,46.875
+5,"info
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,6.4.2.5,Invalid username or password.,46.875
+6,"adm
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,5.4.4.2,Invalid username or password.,46.875
+7,"mysql
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,4.8.8.7,Invalid username or password.,78.125
+8,"user
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,9.7.1.1,Invalid username or password.,15.625
+9,"administrator
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,3.3.0.0,Invalid username or password.,0.0
+10,"oracle
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,5.1.4.1,Invalid username or password.,15.625
+11,"ftp
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,1.1.1.3,Invalid username or password.,46.875
+12,"pi
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,8.6.6.6,Invalid username or password.,31.25
+13,"puppet
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,1.1.2.7,Invalid username or password.,31.25
+14,"ansible
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,3.2.4.4,Invalid username or password.,31.25
+15,"ec2-user
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,0.2.0.0,Invalid username or password.,15.625
+16,"vagrant
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,3.7.2.6,Invalid username or password.,31.25
+17,"azureuser
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,1.4.3.7,Invalid username or password.,31.25
+18,"academico
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,3.6.4.0,Invalid username or password.,15.625
+19,"acceso
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,1.7.0.5,Invalid username or password.,31.25
+20,"access
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,7.2.7.4,Invalid username or password.,46.875
+21,"accounting
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,8.7.7.2,Invalid username or password.,31.25
+22,"accounts
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,8.9.1.3,Invalid username or password.,46.875
+23,"acid
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,2.8.9.5,Invalid username or password.,31.25
+24,"activestat
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,8.0.2.3,Invalid username or password.,46.875
+25,"ad
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,9.5.8.5,Invalid username or password.,31.25
+26,"adam
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,1.6.9.5,Invalid username or password.,46.875
+27,"adkit
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,8.6.9.6,Invalid username or password.,31.25
+28,"admin
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,0.3.4.1,Invalid username or password.,62.5
+29,"administracion
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,6.5.7.4,Invalid username or password.,15.625
+30,"administrador
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,3.6.8.8,Invalid username or password.,31.25
+31,"administrator
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,7.9.9.5,Invalid username or password.,62.5
+32,"administrators
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,1.4.2.6,Invalid username or password.,46.875
+33,"admins
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,2.2.5.1,Invalid username or password.,46.875
+34,"ads
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,5.8.3.7,Invalid username or password.,46.875
+35,"adserver
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,5.7.3.8,Invalid username or password.,46.875
+36,"adsl
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,0.0.0.6,Invalid username or password.,0.0
+37,"ae
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,9.6.6.4,Invalid username or password.,31.25
+38,"af
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,2.7.5.5,Invalid username or password.,46.875
+39,"affiliate
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,4.0.4.7,Invalid username or password.,46.875
+40,"affiliates
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,1.8.4.2,Invalid username or password.,62.5
+41,"afiliados
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,9.7.9.5,Invalid username or password.,46.875
+42,"ag
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,1.7.5.7,Invalid username or password.,31.25
+43,"agenda
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,5.7.2.2,Invalid username or password.,62.5
+44,"agent
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,4.3.1.1,Invalid username or password.,62.5
+45,"ai
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,8.1.2.7,Invalid username or password.,15.625
+46,"aix
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,9.8.4.8,Invalid username or password.,62.5
+47,"ajax
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,4.5.9.7,Invalid username or password.,31.25
+48,"ak
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,8.0.2.2,Invalid username or password.,15.625
+49,"akamai
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,2.2.4.4,Invalid username or password.,31.25
+50,"al
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,5.2.7.4,Invalid username or password.,31.25
+51,"alabama
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,0.2.5.9,Invalid username or password.,46.875
+52,"alaska
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,4.3.2.3,Invalid username or password.,46.875
+53,"albuquerque
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,6.1.7.5,Invalid username or password.,31.25
+54,"alerts
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,1.6.9.2,Invalid username or password.,46.875
+55,"alpha
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,6.5.8.4,Invalid username or password.,15.625
+56,"alterwind
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,8.1.0.4,Invalid username or password.,78.125
+57,"am
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,5.4.5.9,Invalid username or password.,62.5
+58,"amarillo
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,0.7.3.5,Invalid username or password.,31.25
+59,"americas
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,3.5.9.7,Invalid username or password.,46.875
+60,"an
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,8.3.0.7,Invalid username or password.,62.5
+61,"anaheim
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,3.0.4.6,Invalid username or password.,31.25
+62,"analyzer
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,8.9.0.5,Invalid username or password.,31.25
+63,"announce
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,8.4.7.9,Invalid username or password.,31.25
+64,"announcements
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,6.3.2.3,Invalid username or password.,62.5
+65,"antivirus
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,3.2.3.7,Invalid username or password.,46.875
+66,"ao
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,4.3.2.4,Invalid username or password.,46.875
+67,"ap
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,6.4.7.5,Invalid username or password.,15.625
+68,"apache
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,9.1.6.2,Invalid username or password.,31.25
+69,"apollo
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,9.1.8.8,Invalid username or password.,15.625
+70,"app
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,0.4.2.6,Invalid username or password.,15.625
+71,"app01
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,7.2.1.4,Invalid username or password.,15.625
+72,"app1
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,1.7.7.5,Invalid username or password.,15.625
+73,"apple
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,5.0.4.8,Invalid username or password.,31.25
+74,"application
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,6.7.5.8,Invalid username or password.,15.625
+75,"applications
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,1.8.8.9,Invalid username or password.,15.625
+76,"apps
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,5.2.0.4,Invalid username or password.,46.875
+77,"appserver
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,5.7.1.7,Invalid username or password.,78.125
+78,"aq
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,1.1.5.2,Invalid username or password.,15.625
+79,"ar
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,0.7.3.6,Invalid username or password.,15.625
+80,"archie
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,3.7.3.4,Invalid username or password.,31.25
+81,"arcsight
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,0.8.6.6,Invalid username or password.,15.625
+82,"argentina
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,8.8.0.9,Invalid username or password.,15.625
+83,"arizona
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,7.6.1.8,Invalid username or password.,62.5
+84,"arkansas
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,9.2.3.6,Invalid username or password.,46.875
+85,"arlington
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,9.9.5.0,Invalid username or password.,31.25
+86,"as
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,0.5.4.8,Invalid username or password.,62.5
+87,"as400
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,4.6.1.9,Invalid username or password.,31.25
+88,"asia
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,4.9.3.5,Invalid username or password.,15.625
+89,"asterix
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,6.4.9.2,Invalid username or password.,15.625
+90,"at
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,4.7.2.3,Invalid username or password.,0.0
+91,"athena
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,6.9.3.4,Invalid username or password.,15.625
+92,"atlanta
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,3.8.6.9,Invalid username or password.,15.625
+93,"atlas
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,7.1.8.7,Invalid username or password.,31.25
+94,"att
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,1.2.9.4,Invalid username or password.,15.625
+95,"au
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,9.8.8.6,Invalid username or password.,15.625
+96,"auction
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,6.7.8.6,Invalid username or password.,31.25
+97,"austin
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,2.9.0.7,Invalid username or password.,15.625
+98,"auth
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,0.5.2.4,Invalid username or password.,46.875
+99,"auto
+",aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,9.9.0.9,Invalid username or password.,15.625
+100,autodiscover,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeeeeeeeeeeaa,7.8.4.4,Invalid username or password.,46.875
