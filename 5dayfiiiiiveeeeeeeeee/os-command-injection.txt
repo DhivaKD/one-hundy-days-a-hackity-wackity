@@ -1,0 +1,9 @@
+https://portswigger.net/web-security/os-command-injection/lab-simple
+
+https://book.hacktricks.xyz/pentesting-web/command-injection
+
+uggghh i can't seem to get this one 
+
+https://www.hackerone.com/blog/how-to-command-injections
+
+https://www.scip.ch/en/?labs.20181206

